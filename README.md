@@ -22,7 +22,7 @@ Sometimes the dataset can have common key values.
 
 ### **Solution**:
 
-Because of above said reasons, I am performing the Data ETL in single Google Colab notebook; Unioning the data from two datasets and remove duplicates or perform aggregation as applicable.
+Because of above said reasons, I am performing the Data ETL in single Google Colab notebook; Unioning the data from two datasets, Identify unique product list, customer list and counts; remove duplicates or perform aggregation as applicable. 
 
 ---
 
